@@ -1,0 +1,13 @@
+{
+  "name": "unifi-slackbot",
+  "version": "0.0.0",
+  "description": "NPM packages for unifi-slackbot",
+  "private": false,
+  "author": "Glenn de Haan",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "0.5.2",
+    "node-unifi": "^1.1.1",
+    "color-console": "0.0.1"
+  }
+}
